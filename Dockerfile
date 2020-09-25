@@ -12,7 +12,6 @@ RUN apt-get update \
     g++ \
     gcc \
     git \
-    openjdk-8-jre-headless \
     curl \
     python-pip \
     python3-pip \
